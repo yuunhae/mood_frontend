@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      hello world
+      분위기 구원주의 등장
     </div>
   );
 }
