@@ -20,7 +20,7 @@
 ### 💻 **Back-end Developers**  
 | 팀원 | 팀원 |
 | :---: | :---: |
-|  <img style="width: 200px;" src="https://github.com/user-attachments/assets/3477d869-0c29-4e26-83e3-acc8e2daf32f" />  | <img style="width: 200px;" src="https://github.com/user-attachments/assets/cc66f512-2777-4a4e-8fbe-bada294e77bc" /> | 
+|  <img style="width: 200px;" src="https://github.com/user-attachments/assets/294d22aa-5f37-4dff-a4a3-8891f5019bde" />  | <img style="width: 200px;" src="https://github.com/user-attachments/assets/cc66f512-2777-4a4e-8fbe-bada294e77bc" /> | 
 |백엔드 최기웅|백엔드 유지호|
 |   [@choigiwoong](https://github.com/giwoong01)   |  [@jhsay0314](https://github.com/jhsay0314)    |
 
