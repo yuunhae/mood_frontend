@@ -1,6 +1,6 @@
 ![제목을-입력해주세요_-003](https://github.com/user-attachments/assets/5d99c3e4-0881-4440-853d-ecb197c4f3e8)
 
-## 🌟 **We Are MOOD! : [Let's Go](https://mood-frontend-steel.vercel.app/login) **  
+## 🌟 We Are MOOD! : [Let's Go](https://mood-frontend-steel.vercel.app/login) 
 **"분위기 메이커? 이제 AI가 알아서 척척!"**  
 **AI 기반 아이스브레이킹**을 통해 어떤 모임도 어색하지 않게!  
 AI가 무드 업! 넌 놀기만 해. 대화 주제부터 꿀잼 활동까지 AI가 책임지는 완벽한 모임 솔루션 🌈
